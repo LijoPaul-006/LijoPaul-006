@@ -1,124 +1,179 @@
-# Hey, I'm Lijo 👋
+<div align="center">
+  <img src="assets/hero-banner.svg" alt="Lijo Paul M E — Engineer • Builder • Problem Solver" width="100%" />
+</div>
 
-**Engineer • Builder • Problem Solver**
+<br />
 
-I build high-performance software, AI-powered systems, and sustainable computing tools. Passionate about translating complex technical challenges into clean, intuitive, and deterministic digital products.
+<div align="center">
+  <h3><em>"Building software systems, intelligent workflows, and hardware-driven architectures that turn ambitious ideas into things people can actually use."</em></h3>
+</div>
 
-```
-Think big. Build relentlessly. Ship what matters. ⚡
-```
+<br />
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ System Architectures & What I Build
 
-- ⚡ **Full-Stack Applications**: High-throughput web applications, microservices, and edge-native platforms built with Next.js, TypeScript, and modern database architectures.
-- 🧠 **AI & Intelligent Systems**: Predictive modeling, data-driven automation tools, and ML-assisted developer workflows.
-- 🌿 **Sustainable Computing**: Deterministic resource-efficiency measurement, carbon modeling (gCO2e/kWh), and cloud infrastructure rightsizing.
-- 💻 **Systems & Hardware**: Low-level networking protocols, memory lifecycle management, operating system simulations, and interactive audio systems.
+<div align="center">
+  <img src="assets/matrix-what-i-build.svg" alt="Engineering Disciplines Matrix" width="100%" />
+</div>
+
+<br />
 
 ---
 
 ## 🌟 Featured Engineering Projects
 
-### 🌱 [VERDANT — Software Sustainability Intelligence Platform](https://github.com/LijoPaul-006/Verdant)
+<br />
 
-> Measure software. Reduce impact.
+<!-- PROJECT 1: VERDANT -->
+<a href="https://lijopaul-006.github.io/Verdant/">
+  <img src="assets/card-verdant.svg" alt="VERDANT Project Card" width="100%" />
+</a>
 
-- **Overview:** Full-stack Software Sustainability Intelligence Platform that calculates a deterministic **0–100 Sustainability Score** across 6 architectural dimensions (Energy, Compute, Memory, Network, Storage, Carbon) with real-time What-If simulations, sprint timeline tracking ($v1.0 \to v1.1 \to v1.2$), side-by-side assessment comparator, and executive audit reports.
-- **Stack:** `Next.js 14` `TypeScript` `Tailwind CSS` `Prisma` `Vitest` `GitHub Actions`
-- **Links:** 🌐 [Live Platform](https://lijopaul-006.github.io/Verdant/) · 📦 [Source Code](https://github.com/LijoPaul-006/Verdant)
+> *"Measure software. Understand impact. Build greener software."*
 
----
+- **Architecture**: Production-grade full-stack Software Sustainability Intelligence Platform that calculates a deterministic **0–100 Sustainability Score** across 6 multi-factor architectural dimensions (Energy, Compute, Memory, Network, Storage, Carbon).
+- **Capabilities**: Real-time **What-If Simulation Engine**, 7-step progressive telemetry calculator, sprint timeline benchmarks ($v1.0 \to v1.1 \to v1.2$), and print/PDF audit reports.
+- **Tech Stack**: `Next.js 14 (App Router)` `TypeScript 5.5` `Tailwind CSS` `Prisma ORM` `Vitest` `GitHub Actions`
+- **Access**: 🌐 **[Live Platform](https://lijopaul-006.github.io/Verdant/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/Verdant)**
 
-### 🎵 [Aura Music OS](https://github.com/LijoPaul-006/aura-music-os)
+<br />
 
-> Next-generation spatial audio workstation and interactive OS interface.
+<!-- PROJECT 2: AURA MUSIC OS -->
+<a href="https://lijopaul-006.github.io/aura-music-os/">
+  <img src="assets/card-aura.svg" alt="Aura Music OS Project Card" width="100%" />
+</a>
 
-- **Overview:** An experimental web-based operating system designed for real-time audio synthesis, frequency spectrum visualization, track layering, and spatial acoustics running entirely in modern web browsers via Web Audio API.
-- **Stack:** `Next.js 16` `TypeScript` `Web Audio API` `React 19` `Tailwind CSS` `Zustand`
-- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/aura-music-os/) · 📦 [Source Code](https://github.com/LijoPaul-006/aura-music-os)
+> *"Next-generation spatial audio workstation and interactive web OS interface."*
 
----
+- **Architecture**: Browser-native spatial audio workstation and operating system interface built on the Web Audio API audio graph with real-time frequency visualizers.
+- **Capabilities**: Multi-window audio management, signal synthesis with dynamic gain/panning nodes, spectrum analyzers, and state persistence.
+- **Tech Stack**: `Next.js 16 (Turbopack)` `React 19` `TypeScript` `Web Audio API` `Zustand` `Tailwind CSS 4`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/aura-music-os/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/aura-music-os)**
 
-### ⚡ [Computer Networks — Stop-and-Wait ARQ Simulation](https://github.com/LijoPaul-006/computer-networks-)
+<br />
 
-> Socket programming, frame transmission and packet-loss simulation.
+<!-- PROJECT 3: STOP-AND-WAIT ARQ SIMULATION -->
+<a href="https://lijopaul-006.github.io/computer-networks-/">
+  <img src="assets/card-networks.svg" alt="Stop-and-Wait ARQ Simulation Project Card" width="100%" />
+</a>
 
-- **Overview:** Dual-layer network protocol suite implementing the Stop-and-Wait ARQ algorithm with alternating sequence bit control ($0/1$), frame timeout timers, dynamic acknowledgement verification, an interactive browser visualizer, and POSIX C socket client-server implementations.
-- **Stack:** `C` `POSIX Sockets` `JavaScript` `HTML5` `CSS3 Design System`
-- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/computer-networks-/) · 📦 [Source Code](https://github.com/LijoPaul-006/computer-networks-)
+> *"Socket programming, frame transmission and packet-loss simulation in C."*
 
----
+- **Architecture**: Dual-layer networking lab featuring an interactive web-based protocol pipeline visualizer alongside native POSIX C socket client/server binaries.
+- **Capabilities**: Alternating sequence bit control ($0/1$), frame timeout timers, dynamic acknowledgement verification, and stochastic packet drop emulation ($0\%–60\%$).
+- **Tech Stack**: `C (POSIX Sockets)` `Make` `JavaScript (ES6+)` `HTML5 Canvas` `CSS3 Design System`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/computer-networks-/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/computer-networks-)**
 
-### 🌐 [Interactive 3D Engineering Portfolio](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
+<br />
 
-> Cinematic engineering portfolio with real-time 3D graphics.
+<!-- PROJECT 4: 3D PORTFOLIO -->
+<a href="https://lijopaul-006.github.io/My-Academic-Portfolio-/">
+  <img src="assets/card-portfolio.svg" alt="Interactive 3D Portfolio Project Card" width="100%" />
+</a>
 
-- **Overview:** Flagship portfolio platform built with real-time WebGL vertex/fragment shaders, depth-layered glassmorphic panels, smooth momentum scrolling with Lenis, and interactive engineering case studies.
-- **Stack:** `Vite 8` `React 19` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS`
-- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/My-Academic-Portfolio-/) · 📦 [Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
+> *"Cinematic engineering portfolio with real-time 3D graphics and glassmorphism."*
 
----
+- **Architecture**: High-performance 3D canvas portfolio platform powered by Three.js shaders, React Three Fiber, and hardware-accelerated micro-animations.
+- **Capabilities**: Real-time WebGL Aurora shaders, glassmorphic depth layers, smooth Lenis momentum scrolling, and responsive viewport geometry.
+- **Tech Stack**: `Vite 8` `React 19` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS 4`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/My-Academic-Portfolio-/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)**
 
-### 📖 [The Silent Love — Digital Reading Experience](https://github.com/LijoPaul-006/the-silent-love)
+<br />
 
-> An immersive digital reading experience.
+<!-- PROJECT 5: THE SILENT LOVE -->
+<a href="https://lijopaul-006.github.io/the-silent-love/">
+  <img src="assets/card-silentlove.svg" alt="The Silent Love Project Card" width="100%" />
+</a>
 
-- **Overview:** Editorial digital reading web application featuring high-DPI PDF.js vector rendering, focus distraction-free reading mode, touch gestures, chapter quick-drawers, and local reading position persistence.
-- **Stack:** `JavaScript (ES Modules)` `PDF.js` `CSS3 Editorial Theme` `LocalStorage`
-- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/the-silent-love/) · 📦 [Source Code](https://github.com/LijoPaul-006/the-silent-love)
+> *"An immersive, distraction-free digital reading experience for an original romance novel."*
 
----
+- **Architecture**: Editorial digital reading web application that surrounds the original manuscript with high-DPI vector rendering and distraction-free focus modes.
+- **Capabilities**: PDF.js vector rendering engine, mobile touch swipe gestures, chapter quick-jump drawer, and LocalStorage reading position persistence.
+- **Tech Stack**: `HTML5` `JavaScript (ES Modules)` `PDF.js v3.11` `CSS3 Luxury Editorial System`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/the-silent-love/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/the-silent-love)**
 
-### 💻 [Operating System Process Scheduling Visualizer](https://github.com/LijoPaul-006/OS_PROJECT)
+<br />
 
-> Interactive CPU scheduling and memory allocation simulator.
+<!-- PROJECT 6: CPU SCHEDULING STUDIO -->
+<a href="https://lijopaul-006.github.io/OS_PROJECT/">
+  <img src="assets/card-os.svg" alt="CPU Scheduling Studio Project Card" width="100%" />
+</a>
 
-- **Overview:** Interactive operating systems workbench demonstrating CPU process scheduling algorithms (FCFS, SJF, Round Robin, Priority), animated Gantt charts, turnaround time telemetry, and virtual memory paging.
-- **Stack:** `JavaScript` `HTML5 Canvas` `CSS3 Design System`
-- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/OS_PROJECT/) · 📦 [Source Code](https://github.com/LijoPaul-006/OS_PROJECT)
+> *"Interactive CPU process scheduling and virtual memory allocation simulator."*
 
----
+- **Architecture**: Interactive operating systems simulation studio that constructs real-time animated Gantt charts and performance telemetry for scheduling algorithms.
+- **Capabilities**: FCFS, SJF (Preemptive & Non-Preemptive), Round Robin with dynamic Time Quantum, and comparative Average Turnaround Time (TAT) computation.
+- **Tech Stack**: `JavaScript` `HTML5 Canvas` `CSS3 Glassmorphic UI` `IBM Plex Mono`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/OS_PROJECT/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/OS_PROJECT)**
 
-## 🎯 Areas I Work In
-
-| Domain | Focus Areas | Key Practices |
-| :--- | :--- | :--- |
-| **Full-Stack Engineering** | Next.js, TypeScript, React, REST / GraphQL APIs | Component design systems, edge caching, serverless runtimes |
-| **AI & Intelligent Systems** | Machine learning workflows, predictive analysis | Heuristic optimization, data pipelines, automated reasoning |
-| **Sustainable Computing** | Carbon intensity modeling, resource efficiency | Energy proportionality, payload compression, database indexing |
-| **Systems & Architecture** | Low-level C networking, OS process scheduling | Memory hygiene, garbage collection tuning, async non-blocking I/O |
-| **Product Engineering** | Apple & Linear-inspired UI/UX, micro-interactions | Glassmorphism, accessible semantic HTML, high-contrast dark modes |
-
----
-
-## 💻 Tech Stack
-
-- **Languages**: TypeScript, JavaScript, Python, C, SQL, HTML5/CSS3
-- **Frameworks & Runtimes**: Next.js, React, Node.js, Express, Tailwind CSS, Vite
-- **Databases & ORMs**: PostgreSQL, SQLite, Prisma ORM
-- **Graphics & Audio**: Three.js, React Three Fiber, Web Audio API, Framer Motion, GSAP
-- **DevOps & Tooling**: Git, GitHub Actions, Linux, Docker, Vitest
-
----
-
-## 🔭 Currently Exploring
-
-- **Green Software Foundation (GSF)**: Software Carbon Intensity (SCI) specification and real-time power telemetry.
-- **Edge Computing & WebAssembly**: High-performance client-side computation with low latency.
-- **Autonomous Developer Tooling**: Deterministic verification engines and generative code systems.
+<br />
 
 ---
 
-## 📬 Connect
+## 💻 Engineering Stack & Toolkit
 
-- **GitHub**: [@LijoPaul-006](https://github.com/LijoPaul-006)
-- **Email**: [lijopaulme666@gmail.com](mailto:lijopaulme666@gmail.com)
-- **Flagship Project**: [https://lijopaul-006.github.io/Verdant/](https://lijopaul-006.github.io/Verdant/)
+```text
+┌─────────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Category                │ Technologies & Tools                                        │
+├─────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ Languages               │ TypeScript • JavaScript (ESNext) • Python • C • SQL • HTML5 │
+│ Frameworks & Runtimes   │ Next.js 16/14 • React 19 • Node.js • Express • Vite • Bun   │
+│ Data & Persistence      │ PostgreSQL • SQLite • Prisma ORM • Redis                    │
+│ 3D & Audio Systems      │ Three.js • React Three Fiber • Web Audio API • GSAP • Motion│
+│ Styling & Design        │ Tailwind CSS 4/3 • Glassmorphism Tokens • CSS Custom Props │
+│ DevOps & Quality        │ Git • GitHub Actions CI/CD • Linux / POSIX • Vitest • Docker│
+└─────────────────────────┴─────────────────────────────────────────────────────────────┘
+```
+
+<br />
 
 ---
+
+## 🔭 Currently Exploring & Engineering
+
+- 🌿 **Green Software Foundation (GSF)**: Implementing real-time Software Carbon Intensity (SCI) telemetry and grid-aware execution scheduling.
+- ⚡ **Edge Computing & WebAssembly**: Exploring sub-millisecond client-side compute runtimes for low-latency simulation engines.
+- 🛠️ **Deterministic Developer Tooling**: Autonomous verification engines, AST static code analysis, and high-performance developer workflows.
+
+<br />
+
+---
+
+## 📬 Connect & Collaborate
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/LijoPaul-006">
+        <strong>GitHub</strong><br />
+        <code>@LijoPaul-006</code>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/lijo-paul-m-e-315ba429b/">
+        <strong>LinkedIn</strong><br />
+        <code>Lijo Paul M E</code>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.instagram.com/lijo_paul_006/">
+        <strong>Instagram</strong><br />
+        <code>@lijo_paul_006</code>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:lijopaulme666@gmail.com">
+        <strong>Email</strong><br />
+        <code>lijopaulme666@gmail.com</code>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
-  <sub>Designed & built with craftsmanship by <strong>Lijo Paul</strong>.</sub>
+  <img src="assets/footer-philosophy.svg" alt="Think big. Build relentlessly. Ship what matters." width="100%" />
 </div>

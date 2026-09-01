@@ -1,0 +1,72 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1412" />
+      <stop offset="100%" stop-color="#070A09" />
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.12)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.03)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pillar 1: Full-Stack -->
+  <g transform="translate(0, 0)">
+    <rect width="285" height="230" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1" />
+    <circle cx="32" cy="36" r="4" fill="#10B981" />
+    <text x="44" y="40" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#10B981" letter-spacing="1">01 // FULL-STACK</text>
+    <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">Web Systems</text>
+    <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" fill="#94A3B8" width="220">
+      <tspan x="32" dy="0">High-throughput platforms,</tspan>
+      <tspan x="32" dy="20">edge runtimes, and resilient</tspan>
+      <tspan x="32" dy="20">API microservices.</tspan>
+    </text>
+    <rect x="32" y="178" width="221" height="26" rx="6" fill="rgba(16, 185, 129, 0.08)" stroke="rgba(16, 185, 129, 0.2)" stroke-width="1" />
+    <text x="44" y="195" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#34D399">Next.js • TypeScript • React</text>
+  </g>
+
+  <!-- Pillar 2: AI & Data -->
+  <g transform="translate(305, 0)">
+    <rect width="285" height="230" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1" />
+    <circle cx="32" cy="36" r="4" fill="#06B6D4" />
+    <text x="44" y="40" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#06B6D4" letter-spacing="1">02 // INTELLIGENCE</text>
+    <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">AI &amp; Workflows</text>
+    <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" fill="#94A3B8">
+      <tspan x="32" dy="0">Predictive data modeling,</tspan>
+      <tspan x="32" dy="20">automated reasoning, and</tspan>
+      <tspan x="32" dy="20">inference telemetry tools.</tspan>
+    </text>
+    <rect x="32" y="178" width="221" height="26" rx="6" fill="rgba(6, 182, 212, 0.08)" stroke="rgba(6, 182, 212, 0.2)" stroke-width="1" />
+    <text x="44" y="195" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#22D3EE">Python • Data Heuristics</text>
+  </g>
+
+  <!-- Pillar 3: Sustainable Computing -->
+  <g transform="translate(610, 0)">
+    <rect width="285" height="230" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1" />
+    <circle cx="32" cy="36" r="4" fill="#4ADE80" />
+    <text x="44" y="40" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#4ADE80" letter-spacing="1">03 // GREEN TECH</text>
+    <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">Sustainable Code</text>
+    <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" fill="#94A3B8">
+      <tspan x="32" dy="0">Carbon intensity modeling,</tspan>
+      <tspan x="32" dy="20">0–100 scoring engines, and</tspan>
+      <tspan x="32" dy="20">cloud resource rightsizing.</tspan>
+    </text>
+    <rect x="32" y="178" width="221" height="26" rx="6" fill="rgba(74, 222, 128, 0.08)" stroke="rgba(74, 222, 128, 0.2)" stroke-width="1" />
+    <text x="44" y="195" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#86EFAC">SCI • Carbon (gCO2e/kWh)</text>
+  </g>
+
+  <!-- Pillar 4: Systems & Protocols -->
+  <g transform="translate(915, 0)">
+    <rect width="285" height="230" rx="12" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1" />
+    <circle cx="32" cy="36" r="4" fill="#8B5CF6" />
+    <text x="44" y="40" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#8B5CF6" letter-spacing="1">04 // SYSTEMS</text>
+    <text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">Low-Level &amp; Audio</text>
+    <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" fill="#94A3B8">
+      <tspan x="32" dy="0">Stop-and-Wait ARQ in C,</tspan>
+      <tspan x="32" dy="20">POSIX sockets, Web Audio</tspan>
+      <tspan x="32" dy="20">synthesis &amp; CPU schedulers.</tspan>
+    </text>
+    <rect x="32" y="178" width="221" height="26" rx="6" fill="rgba(139, 92, 246, 0.08)" stroke="rgba(139, 92, 246, 0.2)" stroke-width="1" />
+    <text x="44" y="195" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#A78BFA">C Sockets • Web Audio • OS</text>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090E0C" />
+      <stop offset="50%" stop-color="#0E1613" />
+      <stop offset="100%" stop-color="#090E0C" />
+    </linearGradient>
+    <linearGradient id="footerBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(16, 185, 129, 0.1)" />
+      <stop offset="50%" stop-color="rgba(16, 185, 129, 0.4)" />
+      <stop offset="100%" stop-color="rgba(16, 185, 129, 0.1)" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="130" rx="12" fill="url(#footerBg)" stroke="url(#footerBorder)" stroke-width="1" />
+  
+  <g transform="translate(600, 52)" text-anchor="middle">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif" font-size="20" font-weight="700" fill="#F8FAFC" letter-spacing="2">
+      THINK BIG. BUILD RELENTLESSLY. SHIP WHAT MATTERS. ⚡
+    </text>
+    <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#10B981" letter-spacing="1">
+      DESIGNED &amp; ENGINEERED BY LIJO PAUL
+    </text>
+  </g>
+
+  <!-- Crosshairs -->
+  <path d="M 16 16 L 16 26 M 16 16 L 26 16" stroke="rgba(16, 185, 129, 0.4)" stroke-width="1" />
+  <path d="M 1184 16 L 1184 26 M 1184 16 L 1174 16" stroke="rgba(16, 185, 129, 0.4)" stroke-width="1" />
+  <path d="M 16 114 L 16 104 M 16 114 L 26 114" stroke="rgba(16, 185, 129, 0.4)" stroke-width="1" />
+  <path d="M 1184 114 L 1184 104 M 1184 114 L 1174 114" stroke="rgba(16, 185, 129, 0.4)" stroke-width="1" />
+</svg>
