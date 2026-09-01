@@ -2,7 +2,7 @@
 
 **Engineer • Builder • Problem Solver**
 
-I build high-performance software, AI-powered systems, and sustainable computing tools. Passionate about translating complex technical problems into clean, intuitive, and deterministic digital products.
+I build high-performance software, AI-powered systems, and sustainable computing tools. Passionate about translating complex technical challenges into clean, intuitive, and deterministic digital products.
 
 ```
 Think big. Build relentlessly. Ship what matters. ⚡
@@ -19,7 +19,7 @@ Think big. Build relentlessly. Ship what matters. ⚡
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Engineering Projects
 
 ### 🌿 [VERDANT — Software Sustainability Intelligence Platform](https://github.com/LijoPaul-006/Verdant)
 > *Measure software. Reduce impact.*
@@ -30,27 +30,43 @@ Think big. Build relentlessly. Ship what matters. ⚡
 
 ---
 
-### 🎵 [Aura Music OS](https://github.com/framesandflows-creator/aura-music-os)
+### 🎵 [Aura Music OS](https://github.com/LijoPaul-006/aura-music-os)
 > *Next-generation spatial audio workstation and interactive OS interface.*
 - **Overview**: An experimental web-based operating system designed for audio synthesis, playback telemetry, and spatial acoustics.
-- **Stack**: `TypeScript` `Web Audio API` `React` `Tailwind CSS`
-- **Links**: [📦 Source Code](https://github.com/framesandflows-creator/aura-music-os)
+- **Stack**: `Next.js` `TypeScript` `Web Audio API` `React` `Tailwind CSS`
+- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/aura-music-os)
 
 ---
 
-### 🔮 [QP Predictor & Academic Intelligence](https://github.com/framesandflows-creator/QP-PREDICTOR)
-> *Pattern recognition and frequency forecasting engine for university curricula.*
-- **Overview**: Academic intelligence tool that analyzes historical question datasets, identifies probabilistic subject trends, and generates targeted study roadmaps.
-- **Stack**: `JavaScript` `Python` `Data Modeling`
-- **Links**: [📦 Source Code](https://github.com/framesandflows-creator/QP-PREDICTOR)
+### ⚡ [Computer Networks — Stop-and-Wait ARQ Simulation](https://github.com/LijoPaul-006/computer-networks-)
+> *Socket programming, frame transmission, and packet loss emulation in C.*
+- **Overview**: Low-level network protocol simulator implementing the Stop-and-Wait ARQ algorithm with frame timeout timers, dynamic acknowledgement verification, and an interactive web visualizer.
+- **Stack**: `C` `Socket API` `POSIX Threads` `Makefile` `JavaScript`
+- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/computer-networks-)
 
 ---
 
-### 🌐 [Interactive 3D Engineering Portfolio](https://github.com/framesandflows-creator/My-Academic-Portfolio-)
+### 🌐 [Interactive 3D Engineering Portfolio](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
 > *Cinematic portfolio with glassmorphism and real-time 3D graphics.*
 - **Overview**: Flagship portfolio platform built with 3D canvas shaders, fluid micro-interactions, and responsive typography.
-- **Stack**: `Next.js` `Three.js` `React Three Fiber` `GSAP` `Framer Motion`
-- **Links**: [📦 Source Code](https://github.com/framesandflows-creator/My-Academic-Portfolio-)
+- **Stack**: `Next.js / Vite` `Three.js` `React Three Fiber` `GSAP` `Framer Motion`
+- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
+
+---
+
+### 📖 [The Silent Love — Digital Reading Experience](https://github.com/LijoPaul-006/the-silent-love)
+> *An immersive, responsive digital reading experience for an original romance novel.*
+- **Overview**: Editorial digital reading web application featuring PDF.js vector rendering, distraction-free reading mode, touch gestures, and local state persistence.
+- **Stack**: `JavaScript (ES Modules)` `PDF.js` `CSS3 Design System` `Vercel`
+- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/the-silent-love)
+
+---
+
+### 💻 [Operating System Process Scheduling Visualizer](https://github.com/LijoPaul-006/OS_PROJECT)
+> *Process execution scheduling and memory allocation simulator.*
+- **Overview**: Interactive visualization of CPU scheduling algorithms (FCFS, SJF, Round Robin) and virtual memory paging.
+- **Stack**: `JavaScript` `HTML5 Canvas` `CSS3`
+- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/OS_PROJECT)
 
 ---
 
@@ -88,7 +104,7 @@ Think big. Build relentlessly. Ship what matters. ⚡
 
 - **GitHub**: [@LijoPaul-006](https://github.com/LijoPaul-006)
 - **Email**: [lijopaulme666@gmail.com](mailto:lijopaulme666@gmail.com)
-- **Live Flagship**: [https://lijopaul-006.github.io/Verdant/](https://lijopaul-006.github.io/Verdant/)
+- **Flagship Project**: [https://lijopaul-006.github.io/Verdant/](https://lijopaul-006.github.io/Verdant/)
 
 ---
 
