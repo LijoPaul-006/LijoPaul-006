@@ -21,52 +21,63 @@ Think big. Build relentlessly. Ship what matters. ⚡
 
 ## 🌟 Featured Engineering Projects
 
-### 🌿 [VERDANT — Software Sustainability Intelligence Platform](https://github.com/LijoPaul-006/Verdant)
-> *Measure software. Reduce impact.*
-- **Overview**: Full-stack Software Sustainability Intelligence Platform that calculates a deterministic **0–100 Sustainability Score** across 6 architectural dimensions (Energy, Compute, Memory, Network, Storage, Carbon).
-- **Features**: Multi-step progressive calculator, What-If optimization simulator, sprint timeline tracking ($v1.0 \to v1.1 \to v1.2$), side-by-side assessment comparator, and PDF reporting.
-- **Stack**: `Next.js 14` `TypeScript` `Tailwind CSS` `Prisma` `Vitest` `GitHub Actions`
-- **Links**: [🌐 Live Platform](https://lijopaul-006.github.io/Verdant/) • [📦 Source Code](https://github.com/LijoPaul-006/Verdant)
+### 🌱 [VERDANT — Software Sustainability Intelligence Platform](https://github.com/LijoPaul-006/Verdant)
+
+> Measure software. Reduce impact.
+
+- **Overview:** Full-stack Software Sustainability Intelligence Platform that calculates a deterministic **0–100 Sustainability Score** across 6 architectural dimensions (Energy, Compute, Memory, Network, Storage, Carbon) with real-time What-If simulations, sprint timeline tracking ($v1.0 \to v1.1 \to v1.2$), side-by-side assessment comparator, and executive audit reports.
+- **Stack:** `Next.js 14` `TypeScript` `Tailwind CSS` `Prisma` `Vitest` `GitHub Actions`
+- **Links:** 🌐 [Live Platform](https://lijopaul-006.github.io/Verdant/) · 📦 [Source Code](https://github.com/LijoPaul-006/Verdant)
 
 ---
 
 ### 🎵 [Aura Music OS](https://github.com/LijoPaul-006/aura-music-os)
-> *Next-generation spatial audio workstation and interactive OS interface.*
-- **Overview**: An experimental web-based operating system designed for audio synthesis, playback telemetry, and spatial acoustics.
-- **Stack**: `Next.js` `TypeScript` `Web Audio API` `React` `Tailwind CSS`
-- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/aura-music-os)
+
+> Next-generation spatial audio workstation and interactive OS interface.
+
+- **Overview:** An experimental web-based operating system designed for real-time audio synthesis, frequency spectrum visualization, track layering, and spatial acoustics running entirely in modern web browsers via Web Audio API.
+- **Stack:** `Next.js 16` `TypeScript` `Web Audio API` `React 19` `Tailwind CSS` `Zustand`
+- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/aura-music-os/) · 📦 [Source Code](https://github.com/LijoPaul-006/aura-music-os)
 
 ---
 
 ### ⚡ [Computer Networks — Stop-and-Wait ARQ Simulation](https://github.com/LijoPaul-006/computer-networks-)
-> *Socket programming, frame transmission, and packet loss emulation in C.*
-- **Overview**: Low-level network protocol simulator implementing the Stop-and-Wait ARQ algorithm with frame timeout timers, dynamic acknowledgement verification, and an interactive web visualizer.
-- **Stack**: `C` `Socket API` `POSIX Threads` `Makefile` `JavaScript`
-- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/computer-networks-)
+
+> Socket programming, frame transmission and packet-loss simulation.
+
+- **Overview:** Dual-layer network protocol suite implementing the Stop-and-Wait ARQ algorithm with alternating sequence bit control ($0/1$), frame timeout timers, dynamic acknowledgement verification, an interactive browser visualizer, and POSIX C socket client-server implementations.
+- **Stack:** `C` `POSIX Sockets` `JavaScript` `HTML5` `CSS3 Design System`
+- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/computer-networks-/) · 📦 [Source Code](https://github.com/LijoPaul-006/computer-networks-)
 
 ---
 
 ### 🌐 [Interactive 3D Engineering Portfolio](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
-> *Cinematic portfolio with glassmorphism and real-time 3D graphics.*
-- **Overview**: Flagship portfolio platform built with 3D canvas shaders, fluid micro-interactions, and responsive typography.
-- **Stack**: `Next.js / Vite` `Three.js` `React Three Fiber` `GSAP` `Framer Motion`
-- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
+
+> Cinematic engineering portfolio with real-time 3D graphics.
+
+- **Overview:** Flagship portfolio platform built with real-time WebGL vertex/fragment shaders, depth-layered glassmorphic panels, smooth momentum scrolling with Lenis, and interactive engineering case studies.
+- **Stack:** `Vite 8` `React 19` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS`
+- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/My-Academic-Portfolio-/) · 📦 [Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)
 
 ---
 
 ### 📖 [The Silent Love — Digital Reading Experience](https://github.com/LijoPaul-006/the-silent-love)
-> *An immersive, responsive digital reading experience for an original romance novel.*
-- **Overview**: Editorial digital reading web application featuring PDF.js vector rendering, distraction-free reading mode, touch gestures, and local state persistence.
-- **Stack**: `JavaScript (ES Modules)` `PDF.js` `CSS3 Design System` `Vercel`
-- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/the-silent-love)
+
+> An immersive digital reading experience.
+
+- **Overview:** Editorial digital reading web application featuring high-DPI PDF.js vector rendering, focus distraction-free reading mode, touch gestures, chapter quick-drawers, and local reading position persistence.
+- **Stack:** `JavaScript (ES Modules)` `PDF.js` `CSS3 Editorial Theme` `LocalStorage`
+- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/the-silent-love/) · 📦 [Source Code](https://github.com/LijoPaul-006/the-silent-love)
 
 ---
 
 ### 💻 [Operating System Process Scheduling Visualizer](https://github.com/LijoPaul-006/OS_PROJECT)
-> *Process execution scheduling and memory allocation simulator.*
-- **Overview**: Interactive visualization of CPU scheduling algorithms (FCFS, SJF, Round Robin) and virtual memory paging.
-- **Stack**: `JavaScript` `HTML5 Canvas` `CSS3`
-- **Links**: [📦 Source Code](https://github.com/LijoPaul-006/OS_PROJECT)
+
+> Interactive CPU scheduling and memory allocation simulator.
+
+- **Overview:** Interactive operating systems workbench demonstrating CPU process scheduling algorithms (FCFS, SJF, Round Robin, Priority), animated Gantt charts, turnaround time telemetry, and virtual memory paging.
+- **Stack:** `JavaScript` `HTML5 Canvas` `CSS3 Design System`
+- **Links:** 🌐 [Live Preview](https://lijopaul-006.github.io/OS_PROJECT/) · 📦 [Source Code](https://github.com/LijoPaul-006/OS_PROJECT)
 
 ---
 
@@ -85,10 +96,10 @@ Think big. Build relentlessly. Ship what matters. ⚡
 ## 💻 Tech Stack
 
 - **Languages**: TypeScript, JavaScript, Python, C, SQL, HTML5/CSS3
-- **Frameworks & Runtimes**: Next.js, React, Node.js, Express, Tailwind CSS
+- **Frameworks & Runtimes**: Next.js, React, Node.js, Express, Tailwind CSS, Vite
 - **Databases & ORMs**: PostgreSQL, SQLite, Prisma ORM
-- **Graphics & Animation**: Three.js, React Three Fiber, Framer Motion, GSAP
-- **DevOps & Tooling**: Git, GitHub Actions, Linux, Docker, Vite, Vitest
+- **Graphics & Audio**: Three.js, React Three Fiber, Web Audio API, Framer Motion, GSAP
+- **DevOps & Tooling**: Git, GitHub Actions, Linux, Docker, Vitest
 
 ---
 
