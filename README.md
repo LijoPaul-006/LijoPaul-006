@@ -152,15 +152,15 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/lijo-paul-m-e-315ba429b/">
+      <a href="https://www.linkedin.com/in/lijo-paul-a82a79315/">
         <strong>LinkedIn</strong><br />
-        <code>Lijo Paul M E</code>
+        <code>Lijo Paul</code>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.instagram.com/lijo_paul_006/">
+      <a href="https://www.instagram.com/prince_lijo/">
         <strong>Instagram</strong><br />
-        <code>@lijo_paul_006</code>
+        <code>@prince_lijo</code>
       </a>
     </td>
     <td align="center" width="25%">
