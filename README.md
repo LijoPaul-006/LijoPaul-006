@@ -26,7 +26,21 @@
 
 <br />
 
-<!-- PROJECT 1: VERDANT -->
+<!-- PROJECT 1: MANIFESTO -->
+<a href="https://github.com/LijoPaul-006/manifesto">
+  <h3><strong>MANIFESTO — Personal Growth OS & Future Self AI</strong></h3>
+</a>
+
+> *"You write the person you want to become — then build your life toward that declaration."*
+
+- **Architecture**: Private personal-growth operating system centered around identity declaration, reflective journaling, identity-linked goals, time capsules, evidence-based insights, and a context-grounded AI Future Self persona.
+- **Capabilities**: Declarative 7-step onboarding, Future Self persona generation, Talk to Future You chat workspace with vector cosine memory retriever, 2-minute daily evening reflection, sealed time capsules with locked server-side protection, becoming timeline documentary, and memory sovereignty controls.
+- **Tech Stack**: `Next.js 14 (App Router)` `TypeScript 5.5` `Tailwind CSS` `Prisma ORM` `SQLite / PostgreSQL` `Vitest` `GitHub Actions`
+- **Access**: 📦 **[Source Code](https://github.com/LijoPaul-006/manifesto)** &nbsp;|&nbsp; 🏷️ **[v1.0.0 MVP Release](https://github.com/LijoPaul-006/manifesto/releases/tag/v1.0.0)**
+
+<br />
+
+<!-- PROJECT 2: VERDANT -->
 <a href="https://lijopaul-006.github.io/Verdant/">
   <img src="assets/card-verdant.svg" alt="VERDANT Project Card" width="100%" />
 </a>
