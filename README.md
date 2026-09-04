@@ -5,7 +5,18 @@
 <br />
 
 <div align="center">
-  <h3><em>"Building software systems, intelligent workflows, and hardware-driven architectures that turn ambitious ideas into things people can actually use."</em></h3>
+  <p align="center">
+    <a href="https://github.com/LijoPaul-006">
+      <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Location" />
+    </a>
+    <a href="https://lijopaul-006.github.io/manifesto/">
+      <img src="https://img.shields.io/badge/Flagship-MANIFESTO%20OS-10B981?style=for-the-badge&logo=next.js&logoColor=white" alt="Flagship Project" />
+    </a>
+    <a href="mailto:lijopaulme666@gmail.com">
+      <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Status" />
+    </a>
+  </p>
+  <h3><em>"Building software systems, intelligent workflows, and hardware-driven architectures that turn ambitious ideas into production-grade products."</em></h3>
 </div>
 
 <br />
@@ -27,8 +38,8 @@
 <br />
 
 <!-- PROJECT 1: MANIFESTO -->
-<a href="https://github.com/LijoPaul-006/manifesto">
-  <h3><strong>MANIFESTO — Personal Growth OS & Future Self AI</strong></h3>
+<a href="https://lijopaul-006.github.io/manifesto/">
+  <img src="assets/card-manifesto.svg" alt="MANIFESTO Project Card" width="100%" />
 </a>
 
 > *"You write the person you want to become — then build your life toward that declaration."*
@@ -36,7 +47,7 @@
 - **Architecture**: Private personal-growth operating system centered around identity declaration, reflective journaling, identity-linked goals, time capsules, evidence-based insights, and a context-grounded AI Future Self persona.
 - **Capabilities**: Declarative 7-step onboarding, Future Self persona generation, Talk to Future You chat workspace with vector cosine memory retriever, 2-minute daily evening reflection, sealed time capsules with locked server-side protection, becoming timeline documentary, and memory sovereignty controls.
 - **Tech Stack**: `Next.js 14 (App Router)` `TypeScript 5.5` `Tailwind CSS` `Prisma ORM` `SQLite / PostgreSQL` `Vitest` `GitHub Actions`
-- **Access**: 📦 **[Source Code](https://github.com/LijoPaul-006/manifesto)** &nbsp;|&nbsp; 🏷️ **[v1.0.0 MVP Release](https://github.com/LijoPaul-006/manifesto/releases/tag/v1.0.0)**
+- **Access**: 🌐 **[Live Application](https://lijopaul-006.github.io/manifesto/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/manifesto)** &nbsp;|&nbsp; 🏷️ **[v1.0.0 Release](https://github.com/LijoPaul-006/manifesto/releases/tag/v1.0.0)**
 
 <br />
 
@@ -54,7 +65,7 @@
 
 <br />
 
-<!-- PROJECT 2: AURA MUSIC OS -->
+<!-- PROJECT 3: AURA MUSIC OS -->
 <a href="https://lijopaul-006.github.io/aura-music-os/">
   <img src="assets/card-aura.svg" alt="Aura Music OS Project Card" width="100%" />
 </a>
@@ -68,22 +79,8 @@
 
 <br />
 
-<!-- PROJECT 3: STOP-AND-WAIT ARQ SIMULATION -->
-<a href="https://lijopaul-006.github.io/computer-networks-/">
-  <img src="assets/card-networks.svg" alt="Stop-and-Wait ARQ Simulation Project Card" width="100%" />
-</a>
-
-> *"Socket programming, frame transmission and packet-loss simulation in C."*
-
-- **Architecture**: Dual-layer networking lab featuring an interactive web-based protocol pipeline visualizer alongside native POSIX C socket client/server binaries.
-- **Capabilities**: Alternating sequence bit control ($0/1$), frame timeout timers, dynamic acknowledgement verification, and stochastic packet drop emulation ($0\%–60\%$).
-- **Tech Stack**: `C (POSIX Sockets)` `Make` `JavaScript (ES6+)` `HTML5 Canvas` `CSS3 Design System`
-- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/computer-networks-/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/computer-networks-)**
-
-<br />
-
-<!-- PROJECT 4: 3D PORTFOLIO -->
-<a href="https://lijopaul-006.github.io/My-Academic-Portfolio-/">
+<!-- PROJECT 4: 3D ACADEMIC PORTFOLIO -->
+<a href="https://lijopaul-006.github.io/3d-academic-portfolio/">
   <img src="assets/card-portfolio.svg" alt="Interactive 3D Portfolio Project Card" width="100%" />
 </a>
 
@@ -92,26 +89,12 @@
 - **Architecture**: High-performance 3D canvas portfolio platform powered by Three.js shaders, React Three Fiber, and hardware-accelerated micro-animations.
 - **Capabilities**: Real-time WebGL Aurora shaders, glassmorphic depth layers, smooth Lenis momentum scrolling, and responsive viewport geometry.
 - **Tech Stack**: `Vite 8` `React 19` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS 4`
-- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/My-Academic-Portfolio-/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/My-Academic-Portfolio-)**
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/3d-academic-portfolio/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/3d-academic-portfolio)**
 
 <br />
 
-<!-- PROJECT 5: THE SILENT LOVE -->
-<a href="https://lijopaul-006.github.io/the-silent-love/">
-  <img src="assets/card-silentlove.svg" alt="The Silent Love Project Card" width="100%" />
-</a>
-
-> *"An immersive, distraction-free digital reading experience for an original romance novel."*
-
-- **Architecture**: Editorial digital reading web application that surrounds the original manuscript with high-DPI vector rendering and distraction-free focus modes.
-- **Capabilities**: PDF.js vector rendering engine, mobile touch swipe gestures, chapter quick-jump drawer, and LocalStorage reading position persistence.
-- **Tech Stack**: `HTML5` `JavaScript (ES Modules)` `PDF.js v3.11` `CSS3 Luxury Editorial System`
-- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/the-silent-love/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/the-silent-love)**
-
-<br />
-
-<!-- PROJECT 6: CPU SCHEDULING STUDIO -->
-<a href="https://lijopaul-006.github.io/OS_PROJECT/">
+<!-- PROJECT 5: CPU SCHEDULING STUDIO -->
+<a href="https://lijopaul-006.github.io/cpu-scheduling-studio/">
   <img src="assets/card-os.svg" alt="CPU Scheduling Studio Project Card" width="100%" />
 </a>
 
@@ -119,8 +102,36 @@
 
 - **Architecture**: Interactive operating systems simulation studio that constructs real-time animated Gantt charts and performance telemetry for scheduling algorithms.
 - **Capabilities**: FCFS, SJF (Preemptive & Non-Preemptive), Round Robin with dynamic Time Quantum, and comparative Average Turnaround Time (TAT) computation.
-- **Tech Stack**: `JavaScript` `HTML5 Canvas` `CSS3 Glassmorphic UI` `IBM Plex Mono`
-- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/OS_PROJECT/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/OS_PROJECT)**
+- **Tech Stack**: `JavaScript (ES6+)` `HTML5 Canvas` `CSS3 Glassmorphic UI` `IBM Plex Mono`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/cpu-scheduling-studio/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/cpu-scheduling-studio)**
+
+<br />
+
+<!-- PROJECT 6: STOP-AND-WAIT ARQ SIMULATION -->
+<a href="https://lijopaul-006.github.io/computer-networks-arq/">
+  <img src="assets/card-networks.svg" alt="Stop-and-Wait ARQ Simulation Project Card" width="100%" />
+</a>
+
+> *"Socket programming, frame transmission and packet-loss simulation in C."*
+
+- **Architecture**: Dual-layer networking lab featuring an interactive web-based protocol pipeline visualizer alongside native POSIX C socket client/server binaries.
+- **Capabilities**: Alternating sequence bit control ($0/1$), frame timeout timers, dynamic acknowledgement verification, and stochastic packet drop emulation ($0\%–60\%$).
+- **Tech Stack**: `C (POSIX Sockets)` `Make` `JavaScript (ES6+)` `HTML5 Canvas` `CSS3 Design System`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/computer-networks-arq/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/computer-networks-arq)**
+
+<br />
+
+<!-- PROJECT 7: THE SILENT LOVE -->
+<a href="https://lijopaul-006.github.io/the-silent-love/">
+  <img src="assets/card-silentlove.svg" alt="The Silent Love Project Card" width="100%" />
+</a>
+
+> *"An immersive, distraction-free digital reading experience for an original novel."*
+
+- **Architecture**: Editorial digital reading web application that surrounds the original manuscript with high-DPI vector rendering and distraction-free focus modes.
+- **Capabilities**: PDF.js vector rendering engine, mobile touch swipe gestures, chapter quick-jump drawer, and LocalStorage reading position persistence.
+- **Tech Stack**: `HTML5` `JavaScript (ES Modules)` `PDF.js v3.11` `CSS3 Luxury Editorial System`
+- **Access**: 🌐 **[Live Preview](https://lijopaul-006.github.io/the-silent-love/)** &nbsp;|&nbsp; 📦 **[Source Code](https://github.com/LijoPaul-006/the-silent-love)**
 
 <br />
 
@@ -140,6 +151,27 @@
 │ DevOps & Quality        │ Git • GitHub Actions CI/CD • Linux / POSIX • Vitest • Docker│
 └─────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
+
+<br />
+
+---
+
+## 📊 GitHub Analytics & Productivity Metrics
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=LijoPaul-006&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E" alt="Lijo Paul GitHub Stats" height="165" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LijoPaul-006&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" height="165" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LijoPaul-006&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=10B981&fire=10B981&currStreakLabel=58A6FF" alt="GitHub Streak" width="90%" />
+</div>
 
 <br />
 
