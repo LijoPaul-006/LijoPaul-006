@@ -58,7 +58,7 @@ Just4U is a verified student ecosystem that brings academic resources, student d
   - 📄 **College Documents & Forms**: Searchable clearinghouse of official university forms with required attachment guidelines.
   - 🛡️ **Admin Control System**: Role-guarded administration portal for curriculum management and campus safety moderation.
 - **Tech Stack**: `Next.js 15 (App Router)` `React 19` `TypeScript 5` `Tailwind CSS` `Framer Motion` `JWT Auth` `Atomic Store`
-- **Access**: 🌐 **[Live Demo](https://just4u.vercel.app)** &nbsp;|&nbsp; 📦 **[Repository](https://github.com/LijoPaul-006/Just4U)**
+- **Access**: 🌐 **[Live Demo](https://lijopaul-006.github.io/Just4U/)** &nbsp;|&nbsp; 📦 **[Repository](https://github.com/LijoPaul-006/Just4U)**
 
 <br />
 
