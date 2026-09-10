@@ -9,8 +9,8 @@
     <a href="https://github.com/LijoPaul-006">
       <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Location" />
     </a>
-    <a href="https://lijopaul-006.github.io/manifesto/">
-      <img src="https://img.shields.io/badge/Flagship-MANIFESTO%20OS-10B981?style=for-the-badge&logo=next.js&logoColor=white" alt="Flagship Project" />
+    <a href="https://github.com/LijoPaul-006/Just4U">
+      <img src="https://img.shields.io/badge/Flagship-JUST4U%20ECOSYSTEM-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" alt="Flagship Project" />
     </a>
     <a href="mailto:lijopaulme666@gmail.com">
       <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Status" />
@@ -37,7 +37,32 @@
 
 <br />
 
-<!-- PROJECT 1: MANIFESTO -->
+<!-- PROJECT 1: JUST4U -->
+<a href="https://github.com/LijoPaul-006/Just4U">
+  <img src="assets/card-just4u.svg" alt="Just4U Project Card" width="100%" />
+</a>
+
+> *"Everything students need. One place."*
+
+Just4U is a verified student ecosystem that brings academic resources, student discovery, study partners, travel buddies, event companions, digital student ID, college documents and other everyday student utilities into one personalized platform.
+
+- **Key Capabilities**:
+  - 🎓 **Verified Student Identity**: Authenticated collegiate domain verification (`@btech.christuniversity.in`) with real-time OTP issuance and secure JWT cookie sessions.
+  - 🤝 **Skill-Based Teammate Finder**: Multi-attribute compatibility matching across programming languages, project stacks, and graduation years.
+  - 📚 **Academic Resource Hub**: Centralized, filterable catalog of previous-year question papers (PYQs) with PDF previews and download tracking.
+  - 🧠 **AI Topic Explainer**: Syllabus concept break-down offering analogies, mathematical proofs, exam-oriented rubrics, and interactive quizzes.
+  - 👥 **Study Partner Finder**: Syllabus-aligned study buddy discovery matching compatible study styles (Deep Focus, Discussion, Problem Solving).
+  - 🚍 **Privacy-Conscious Travel Buddy**: Metro and bus transit corridor co-traveler matching without exposing private residential addresses.
+  - 🎟️ **Event Buddy**: Campus fests, hackathons, and symposium discovery with built-in companion matching so students never attend events alone.
+  - 🪪 **Digital Student ID**: Holographic 3D card tilt with cryptographic anti-tamper QR pass and library barcode.
+  - 📄 **College Documents & Forms**: Searchable clearinghouse of official university forms with required attachment guidelines.
+  - 🛡️ **Admin Control System**: Role-guarded administration portal for curriculum management and campus safety moderation.
+- **Tech Stack**: `Next.js 15 (App Router)` `React 19` `TypeScript 5` `Tailwind CSS` `Framer Motion` `JWT Auth` `Atomic Store`
+- **Access**: 🌐 **[Live Demo](https://just4u.vercel.app)** &nbsp;|&nbsp; 📦 **[Repository](https://github.com/LijoPaul-006/Just4U)**
+
+<br />
+
+<!-- PROJECT 2: MANIFESTO -->
 <a href="https://lijopaul-006.github.io/manifesto/">
   <img src="assets/card-manifesto.svg" alt="MANIFESTO Project Card" width="100%" />
 </a>
